@@ -67,11 +67,6 @@ In summary, as a front-end and back-end engineer, I bring a diverse set of skill
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/codekvnnn/codekvnnn/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
 <!--   <a href="https://www.linkedin.com/in/kevincrnlsbs/" target="_blank"> -->
@@ -81,6 +76,5 @@ In summary, as a front-end and back-end engineer, I bring a diverse set of skill
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
-###
 
 
