@@ -1,4 +1,4 @@
-<h3 align="center">Hello there! 👋 I am a highly skilled and versatile engineer with expertise in both front-end and back-end development. With a passion for crafting intuitive user interfaces and building robust server-side architectures, I bring a comprehensive skill set that allows me to excel as both a front-end engineer and a back-end engineer.
+<h4 align="center">Hello there! 👋 I am a highly skilled and versatile engineer with expertise in both front-end and back-end development. With a passion for crafting intuitive user interfaces and building robust server-side architectures, I bring a comprehensive skill set that allows me to excel as both a front-end engineer and a back-end engineer.
 
 Front-End Engineering:
 
@@ -16,7 +16,7 @@ Collaboration and Communication:
 
 Throughout my career, I have honed my collaboration and communication skills, recognizing the importance of working effectively within cross-functional teams. I thrive in agile environments where teamwork, open communication, and idea exchange are valued. I can effectively communicate technical concepts to non-technical stakeholders, ensuring a clear understanding of project goals and requirements. I actively seek feedback and value constructive criticism, leveraging it to continually improve and deliver exceptional results.
 
-In summary, as a front-end and back-end engineer, I bring a diverse set of skills to the table. With my expertise in front-end development, I can create engaging user interfaces that captivate audiences. Simultaneously, my proficiency in back-end engineering allows me to design and implement robust server-side architectures that ensure reliability, security, and performance. I am excited to leverage my skills and contribute to the development of innovative and impactful projects.</h3>
+In summary, as a front-end and back-end engineer, I bring a diverse set of skills to the table. With my expertise in front-end development, I can create engaging user interfaces that captivate audiences. Simultaneously, my proficiency in back-end engineering allows me to design and implement robust server-side architectures that ensure reliability, security, and performance. I am excited to leverage my skills and contribute to the development of innovative and impactful projects.</h4>
 
 
 ###
