@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Kevin
 
-I am a **senior software engineer** with a deep focus on **building scalable, high-impact products** that bridge front-end experiences with back-end efficiency. My work is driven by a strong foundation in **software architecture, API integrations, and developer experience**, ensuring that every solution I build is not only technically robust but also aligned with business and user needs.  
+I am a **software engineer** with a deep focus on **building scalable, high-impact products** that bridge front-end experiences with back-end efficiency. My work is driven by a strong foundation in **software architecture, API integrations, and developer experience**, ensuring that every solution I build is not only technically robust but also aligned with business and user needs.  
 
 With expertise in **modern front-end frameworks** such as React, Vue.js, and Angular, I craft interfaces that prioritize **usability, performance, and accessibility**. I have a keen understanding of **design systems and user experience principles**, allowing me to translate complex requirements into intuitive applications.  
 
